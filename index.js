@@ -1,10 +1,10 @@
 // Write your code here
-var two = 2;
-let thirtyOne = 31;
+let var1 = 2;
+let var2 = 31;
 let eight = 8;
 let twelve = 12
 
-let multiply = two * thirtyOne;
+let multiply = var1 * var2;
 let random = Math.random();
 let mod = eight * two % twelve;
 let max = Math.max(1, 5, 10, 20)
