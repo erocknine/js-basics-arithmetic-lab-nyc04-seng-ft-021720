@@ -6,5 +6,5 @@ let twelve = 12
 
 let multiply = var1 * var2;
 let random = Math.random();
-let mod = eight * two % twelve;
+let mod = eight * var1 % twelve;
 let max = Math.max(1, 5, 10, 20)
